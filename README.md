@@ -9,6 +9,6 @@
 - **Project Art:** Since GitHub allows for a project file for social media and whatnot, I decided to create one.
 - **Comparison of Logo Font to Open Sans Extra Bold Italic:** While it's not a perfect match, a case can be made that it's a reasonable match. At bare minimum it can serve as a decent substitute.
 - **3D Emblem:** A 3D STL file for people to use for 3D printing.  If you want a 2 color effect like the original, start with a white filament and swap to a black filament at 33-34 percent.
-- **8-Bit:** Created a sprite version by downscaling the original and drawing it out in pixel format.  There are full-color, grayscale, black & white and STL files available.
+- **8-Bit:** Created a sprite version by downscaling the original and drawing it out in pixel format.  There are full-color, grayscale, black & white, STL and ANSI files available.
 
 ![MiSTer Kun - The MiSTer Mascot](https://raw.githubusercontent.com/baxysquare/mister_kun/1b59a559a49ab65617256a01b8359e2c2e48ebc2/mister_kun_project_art.svg)
